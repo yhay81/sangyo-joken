@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#efebe3"/>
+  <rect x="54" y="54" width="1092" height="522" rx="22" fill="#d8e2e4" stroke="#27324a" stroke-width="3"/>
+  <g transform="translate(88 83)" font-family="sans-serif">
+    <text x="0" y="26" fill="#b75c48" font-size="20" font-weight="800" letter-spacing="3">2024—2025 · 厚生労働省</text>
+    <text x="0" y="91" fill="#273147" font-size="43" font-weight="900">産業別求人条件</text>
+    <text x="0" y="137" fill="#596573" font-size="23" font-weight="700">18産業の休みと手当を</text>
+    <text x="0" y="171" fill="#596573" font-size="23" font-weight="700">3枚の条件票で比べる</text>
+    <g transform="translate(0 219)">
+      <rect width="117" height="40" rx="5" fill="#fffdf8" stroke="#27324a" stroke-width="2"/><text x="17" y="27" fill="#273147" font-size="15" font-weight="800">F 製造</text>
+      <rect x="128" width="117" height="40" rx="5" fill="#e8d7ae" stroke="#27324a" stroke-width="2"/><text x="145" y="27" fill="#273147" font-size="15" font-weight="800">H 情報</text>
+      <rect x="256" width="147" height="40" rx="5" fill="#d7e4df" stroke="#27324a" stroke-width="2"/><text x="273" y="27" fill="#273147" font-size="15" font-weight="800">Q 医療・福祉</text>
+    </g>
+    <rect y="280" width="403" height="92" rx="7" fill="#27324a"/>
+    <text x="23" y="316" fill="#fffdf8" font-size="16" font-weight="800">産業計 ＋ 18産業</text>
+    <text x="23" y="348" fill="#cbd7d9" font-size="15">完全週休二日・賞与・通勤手当</text>
+  </g>
+  <g transform="translate(540 86)" font-family="sans-serif">
+    <rect x="0" y="0" width="526" height="456" rx="14" fill="#c4bcae" stroke="#27324a" stroke-width="3"/>
+    <path d="M24 50h478" stroke="#27324a" stroke-width="5"/>
+    <rect x="28" y="19" width="102" height="32" rx="5" fill="#fffdf8" stroke="#27324a" stroke-width="2"/><text x="45" y="41" fill="#273147" font-size="14" font-weight="800">F 製造</text>
+    <rect x="140" y="19" width="102" height="32" rx="5" fill="#e8d7ae" stroke="#27324a" stroke-width="2"/><text x="157" y="41" fill="#273147" font-size="14" font-weight="800">H 情報</text>
+    <rect x="252" y="19" width="148" height="32" rx="5" fill="#d7e4df" stroke="#27324a" stroke-width="2"/><text x="269" y="41" fill="#273147" font-size="14" font-weight="800">Q 医療・福祉</text>
+    <g transform="translate(29 82)">
+      <g transform="rotate(-3 135 130)"><rect width="238" height="281" rx="5" fill="#fffdf8" stroke="#27324a" stroke-width="3"/><rect width="238" height="9" fill="#b75c48"/><circle cx="39" cy="50" r="21" fill="none" stroke="#b75c48" stroke-width="4"/><text x="39" y="57" text-anchor="middle" fill="#b75c48" font-size="19" font-weight="900">休</text><text x="72" y="55" fill="#273147" font-size="18" font-weight="800">完全週休二日</text><text x="25" y="117" fill="#273147" font-size="33" font-weight="900">58.5%</text><g fill="#d8e2e4" stroke="#7f8991"><rect x="25" y="154" width="24" height="52"/><rect x="57" y="174" width="24" height="32"/><rect x="89" y="137" width="24" height="69"/><rect x="121" y="166" width="24" height="40"/><rect x="153" y="126" width="24" height="80"/><rect x="185" y="148" width="24" height="58"/></g><text x="25" y="246" fill="#68717d" font-size="14">事業所数</text></g>
+      <g transform="translate(202 45) rotate(2 135 130)"><rect width="238" height="281" rx="5" fill="#fffdf8" stroke="#27324a" stroke-width="3"/><rect width="238" height="9" fill="#5e8e83"/><circle cx="39" cy="50" r="21" fill="none" stroke="#5e8e83" stroke-width="4"/><text x="39" y="57" text-anchor="middle" fill="#5e8e83" font-size="19" font-weight="900">通</text><text x="72" y="55" fill="#273147" font-size="18" font-weight="800">通勤手当あり</text><text x="25" y="117" fill="#273147" font-size="33" font-weight="900">92.1%</text><path d="M25 166h188M25 190h150M25 214h174" stroke="#9aa4a9" stroke-width="9"/><text x="25" y="246" fill="#68717d" font-size="14">新規求人数</text></g>
+    </g>
+    <rect x="0" y="405" width="526" height="51" rx="0 0 11 11" fill="#a8a092"/>
+    <text x="28" y="437" fill="#273147" font-size="14" font-weight="800">分類票から条件票を選ぶ</text>
+    <text x="458" y="437" fill="#273147" font-size="14" font-weight="800">2025</text>
+  </g>
+</svg>

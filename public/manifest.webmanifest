@@ -1,0 +1,10 @@
+{
+  "name": "産業別求人条件",
+  "short_name": "産業条件",
+  "description": "18産業の完全週休二日制、賞与、通勤手当を比較する",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#efebe3",
+  "theme_color": "#27324a",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
